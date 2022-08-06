@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+.login{
+  text-align: left;
+  margin-left: 30px;
+}
+body {
+  background-image: url("https://images4.alphacoders.com/936/936378.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: larger;
+}
+
+fieldset{
+  margin-top: 19%;
+  width: 20%;
+}
+form {
+  background-color: rgb(132, 112, 138);
+  box-shadow: 3px 3px 3px black;
+}
+table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+
+#submit-button {
+  background-color: rgb(151, 72, 101);
+  color: white(44, 8, 135);
+  font-size: large;
+  margin-left: 40%;
+}
+
